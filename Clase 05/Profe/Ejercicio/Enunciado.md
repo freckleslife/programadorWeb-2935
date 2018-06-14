@@ -22,20 +22,12 @@ var cars = [
     year: 2015
   },
   {
-<<<<<<< HEAD
     model:`Audi TT`,
-=======
-    model:'Audi TT',
->>>>>>> 6b1775a0ea598ec3de93a8482c04668058cd675e
     brand:'Audi',
     year: 2017
   },
   {
-<<<<<<< HEAD
     model:`Gran turismo`,
-=======
-    model:'Gran turismo',
->>>>>>> 6b1775a0ea598ec3de93a8482c04668058cd675e
     brand:'Maserati',
     year: 2018
   }
